@@ -22,25 +22,16 @@
 
 ## :rocket: Sobre o projeto
 
-O **GoFinances** é aplicação de gestão de transações financeiras. Foi desenvolvida durante o Bootcamp da **[Rocketseat](https://rocketseat.com.br/)** e ainda passa por algumas alterações e adições de funcionalidades.
-A aplicação aceita cadastro de transações de entrada e saída apenas importando arquivos **[.CSV](https://rockcontent.com/blog/csv/#:~:text=Por%20defini%C3%A7%C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20por%20uma%20v%C3%ADrgula.)**, gera novos registros no banco de dados e exibe a lista de transações cadastradas.
- 
- A próxima funcionalidade implementada será um meio de cadastro manual das transações, via formulário.
-
-### :triangular_ruler: Layout da aplicação
-
-O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/EgOhyj1Inz14dhWGVhRlhr/GoFinances?node-id=1%3A863).
-
-Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
+Aplicação frontend desenvolvida durante o Bootcamp da **[Rocketseat](https://rocketseat.com.br/)** sobre fundamentos de **ReactJS**. Consome a API de repos/usuários do Github e lista na tela os repositórios pesquisados e suas issues abertas.
 
 
 ### :camera: Template da aplicação
 
 Abaixo, seguem algumas fotos e um GIF do template da aplicação:
 
-<img src="/assets/list.png" height="500" width="1200">
+<img src="/assets/home.png" height="500" width="1200">
 
-<img src="/assets/import.png" height="500" width="1200">
+<img src="/assets/issues.png" height="500" width="1200">
 
 <img src="/assets/usage.GIF" height="500" width="1200">
 
