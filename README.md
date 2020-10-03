@@ -33,7 +33,7 @@ Abaixo, seguem algumas fotos e um GIF do template da aplicação:
 
 <img src="/assets/issues.png" height="500" width="1200">
 
-<img src="/assets/usage.GIF" height="500" width="1200">
+<img src="/assets/usage.gif" height="500" width="1200">
 
 
 ### :cd: Rodando a aplicação!
